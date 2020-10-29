@@ -1,16 +1,18 @@
-### Hi there 👋
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-Noob&hide=prs&show_icons=true&theme=dark&include_all_commits=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Noob&hide=lua,yacc&layout=compact&show_icons=true&theme=dark&langs_count=7)
 
-<!--
-**Dr-Noob/Dr-Noob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Repositories
+<a href="https://github.com/Dr-Noob/cpufetch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Noob&repo=cpufetch&theme=dark" />
+</a>
+<a href="https://github.com/Dr-Noob/FLOPS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Noob&repo=FLOPS&theme=dark" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Dr-Noob/snetscan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Noob&repo=snetscan&theme=dark" />
+</a>
+<a href="https://github.com/Dr-Noob/PACYBITS_FUT20_Hack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Noob&repo=PACYBITS_FUT20_Hack&theme=dark" />
+</a>
