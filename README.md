@@ -6,8 +6,8 @@
 <a href="https://github.com/Dr-Noob/cpufetch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Noob&repo=cpufetch&theme=dark" />
 </a>
-<a href="https://github.com/Dr-Noob/FLOPS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Noob&repo=FLOPS&theme=dark" />
+<a href="https://github.com/Dr-Noob/peakperf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Noob&repo=peakperf&theme=dark" />
 </a>
 
 <a href="https://github.com/Dr-Noob/snetscan">
