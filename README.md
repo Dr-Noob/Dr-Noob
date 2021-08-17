@@ -6,13 +6,13 @@
 <a href="https://github.com/Dr-Noob/cpufetch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Noob&repo=cpufetch&theme=dark" />
 </a>
+<a href="https://github.com/Dr-Noob/gpufetch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Noob&repo=gpufetch&theme=dark" />
+</a>
+
 <a href="https://github.com/Dr-Noob/peakperf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Noob&repo=peakperf&theme=dark" />
 </a>
-
 <a href="https://github.com/Dr-Noob/snetscan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Noob&repo=snetscan&theme=dark" />
-</a>
-<a href="https://github.com/Dr-Noob/PACYBITS_FUT20_Hack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Noob&repo=PACYBITS_FUT20_Hack&theme=dark" />
 </a>
